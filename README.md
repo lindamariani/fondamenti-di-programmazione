@@ -11,7 +11,7 @@ Sono presenti diversi tipi di contenuti utili per lo studio e la preparazione ag
 
 ## Obiettivi
 - Tenere organizzato tutto il materiale di studio in un unico posto
-- Avere esempi ed esercizi su cui esercitarmi e ripassare
+- Avere esempi ed esercizi su cui esercitarsi e ripassare
 - Creare un riferimento rapido per concetti teorici e pratici
 
 ## Note

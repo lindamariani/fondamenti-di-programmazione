@@ -4,7 +4,7 @@ In questa repo raccolgo materiali e risorse personali legati al corso di Fondame
 Sono presenti diversi tipi di contenuti utili per lo studio e la preparazione agli esami.
 
 ## Contenuti
-- Risoluzioni di esami in **C++**
+- Risoluzioni di esami in **C++** e **Java**
 - Esercizi pratici di **C++**
 - Task dell’anno accademico 2024/2025 in **C++**
 - Appunti di programmazione B con argomenti sia di **C++** che di **Java**

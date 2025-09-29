@@ -1,6 +1,6 @@
 # Repository Fondamenti di Programmazione – A.A. 2024/2025
 
-In questa repo raccolgo materiali e risorse personali legati al corso di Programmazione B.  
+In questa repo raccolgo materiali e risorse personali legati al corso di Fondamenti di Programmazione.  
 Sono presenti diversi tipi di contenuti utili per lo studio e la preparazione agli esami.
 
 ## Contenuti
